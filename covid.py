@@ -2,7 +2,7 @@
 """
 Created on Mon Jan 25 11:54:57 2021
 
-@author: LENOVO
+@author: saidul haq
 """
 
 

@@ -7,7 +7,6 @@ Created on Tue Jan 26 16:57:57 2021
 
 
 import streamlit as st
-import seaborn as sns
 import numpy as np
 import pandas as pd
 import altair as alt
